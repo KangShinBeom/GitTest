@@ -26,6 +26,7 @@ public class TestServlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		System.out.println("왜안되냐 ㅅ...");
+		System.out.println("이건또왜되냐...ㅅ");
 	}
 
 	/**
