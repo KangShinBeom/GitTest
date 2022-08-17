@@ -18,7 +18,7 @@ public class TestServlet extends HttpServlet {
      * @see HttpServlet#HttpServlet()
      */
     public TestServlet() {
-        System.out.println("master TestServlet");
+        
     }
 
 	/**
