@@ -30,6 +30,7 @@ public class TestServlet extends HttpServlet {
 		System.out.println("TestServlet -- hotfix");
 		System.out.println("어쩐지 안되더라");
 		System.out.println("뭔데");
+		System.out.println("뭔데??");
 	}
 
 	/**
